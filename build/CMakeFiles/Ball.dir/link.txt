@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Ball.dir/link.d CMakeFiles/Ball.dir/main.cpp.o -o Ball  /usr/lib/libraylib.so.6.0.0 -lm

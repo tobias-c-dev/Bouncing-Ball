@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/asthmaticfrog/dev/Physics/Ball/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

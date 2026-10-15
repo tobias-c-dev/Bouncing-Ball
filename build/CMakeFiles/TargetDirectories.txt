@@ -1,0 +1,3 @@
+/home/asthmaticfrog/dev/Physics/Ball/build/CMakeFiles/Ball.dir
+/home/asthmaticfrog/dev/Physics/Ball/build/CMakeFiles/edit_cache.dir
+/home/asthmaticfrog/dev/Physics/Ball/build/CMakeFiles/rebuild_cache.dir
